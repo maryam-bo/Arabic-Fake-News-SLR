@@ -1,2 +1,2 @@
-# Arabic-Fake-News-SLR
-Supplementary materials for the Systematic Literature Review
+# Arabic-Fake-News-CA
+Supplementary materials for the Critical Analysis 
